@@ -1,4 +1,4 @@
 # Set-Card-Game
-This project implements the game 'Set', a fast multiplayer card game.
-Developed in Java, this code emphasizes our understanfing of multi-threading programming, as each player and the dealer are run as independent threads.
-Special attention was given to concurrent safety and correctness, as the different threads interact with shared resources which required handeling these issued with a varieity of techniques.
+This project presents an implementation of the fast-paced multiplayer card game 'Set'. Developed in Java, this code underscores our comprehension of multi-threaded programming. Each player and the dealer are executed as autonomous threads, demonstrating our proficiency in managing concurrent operations.
+
+Considerable focus has been placed on ensuring concurrent safety and correctness. Given the shared resources among different threads, attention was paid to employing a variety of techniques to handle potential concurrency issues effectively.
